@@ -1,6 +1,6 @@
 # Clipboard Logger
 
-## Warning
+## ⚠️Warning⚠️
 - The logger is very slow, haven't tried to set up keybinds do on own risk
 
 A clipboard history logger with text and image storage. Runs as a user service via systemd. Includes a C utility (image_list) to quickly view clipboard history.
