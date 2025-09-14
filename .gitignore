@@ -1,0 +1,24 @@
+# compiled binaries
+*.o
+*.out
+*.exe
+
+# logs and history
+history.txt
+
+# clipboard data
+images/
+texts/
+image_list
+img_keep.list
+text_keep.list
+last_image
+last_text
+
+# system files
+.DS_Store
+Thumbs.db
+
+# temporary files
+*.swp
+*.tmp
